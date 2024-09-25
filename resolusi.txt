@@ -1,5 +1,6 @@
 Resolusi Akhir Tahun
 - Expert di Front-end
 - Paham terkai Back-end
+ *Mulai dari javascript
 - Jadi seorang pembaca
 - Mencintai Olahraga
